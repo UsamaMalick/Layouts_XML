@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">VIRSA</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="exit">Exit</string>
+    <string name="log_in">Log In</string>
+    <string name="no_account_yet_create_one">No Account Yet? Create One</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="already_have_an_account_log_in">Already have an Account? Log In</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="reacts">Reacts</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_virs">VIRSA</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="relative">Relative</string>
+    <string name="constraint">Constraint</string>
+    <string name="frame">Frame</string>
+    <string name="linear">Linear</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="_896">896</string>
+    <string name="_3632">3632</string>
+    <string name="_431">431</string>
+    <string name="title">LETS PlAY RIQS!</string>
+    <string name="CompanyName">Company Name</string>
+    <string name="btn_messageUpdate">update</string>
+    <string name="age">4+</string>
+    <string name="gain_raiting">4.1</string>
+    <string name="btn_click">Don\'t Touch me!</string>
+    <string name="linear_layout_exxample">Linear LayOut Exxample.</string>
+    <string name="touch_me">Touch_me</string>
+</resources>

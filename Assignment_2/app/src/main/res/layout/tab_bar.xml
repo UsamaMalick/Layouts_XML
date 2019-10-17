@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:orientation="horizontal"
+    android:background="@color/colorPrimary">
+
+
+    <TextView
+        android:id="@+id/txt_Rel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/relative"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="22sp"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/txt_Cons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/constraint"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/txt_frm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/frame"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="15sp"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/txt_lin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/linear"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="15sp"
+        android:textColor="@android:color/white"/>
+</LinearLayout>
